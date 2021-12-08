@@ -3,7 +3,7 @@ export default function Usuarios(){
     <>
     Pagina de Usuarios
     <div>
-    
+
     </div>
     </>
   )
