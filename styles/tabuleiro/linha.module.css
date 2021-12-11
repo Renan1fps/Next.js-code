@@ -1,0 +1,16 @@
+.linha{
+  display: flex;
+  flex-direction: row;
+}
+
+.corLinhaBlack{
+  background: black;
+  height: 2rem;
+  width: 2rem;
+}
+
+.corlinhaWhithe{
+  background: white;
+  height: 2rem;
+  width: 2rem;
+}
