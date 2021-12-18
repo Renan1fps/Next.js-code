@@ -12,7 +12,6 @@ export default function Tabuleiro(){
       <Linha/>
       <Linha initBlack/>
       <Linha/>
-      <Linha/>
     </div>
     
   )
