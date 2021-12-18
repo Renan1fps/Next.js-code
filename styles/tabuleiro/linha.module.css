@@ -1,16 +1,18 @@
 .linha{
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .corLinhaBlack{
   background: black;
-  height: 2rem;
-  width: 2rem;
+  height: 4rem;
+  width: 4rem;
 }
 
 .corlinhaWhithe{
   background: white;
-  height: 2rem;
-  width: 2rem;
+  height: 4rem;
+  width: 4rem;
 }
