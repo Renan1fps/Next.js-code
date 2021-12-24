@@ -1,7 +1,6 @@
 import { listProducts } from "../../data/productsData"
 
 export default function Renderizacao() {
-
   function renderProducts() {
     const list = listProducts
    return list.map(product => (
