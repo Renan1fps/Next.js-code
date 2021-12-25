@@ -1,5 +1,4 @@
-
-export default Users() {
+export default function Users() {
   return (
     <div>
       Hello
