@@ -46,7 +46,7 @@ export default function GetUsers() {
         flexDirection: 'column'
       }}>
         {users.map((user, i) => (
-          <span key={i}>{user.owner.login}</span>
+          <span key={i}>{user.owner?.login}</span>
         ))}
       </div>
     </div>
