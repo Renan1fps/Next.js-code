@@ -1,5 +1,6 @@
 import style from '../../styles/tabuleiro/container.module.css';
 import { Linha } from "../../components/Linha";
+// refatorar
 
 export default function Tabuleiro(){
   return(
